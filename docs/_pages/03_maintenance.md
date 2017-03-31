@@ -4,4 +4,6 @@ title: Wartung
 permalink: /maintenance/
 ---
 
-Dies und das
+#### 31.03.2017
+- Stecker am Sensor unter dem Leerlaufstellet erneuert
+- Schläuche am Leerlaufsteller mit Silikonband abgedichtet
