@@ -3,12 +3,6 @@
   <h2 class="project-tagline">{{ site.tagline }}</h2>
 
   {% for page in site.pages %} {% if page.title %}
-  <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+  <a href="{{ page.url | prepend: site.baseurl }}" class="btn">{{ page.title }}</a>
   {% endif %} {% endfor %}
-
-  <a href="index.html" class="btn">Home</a>
-  <a href="object.html" class="btn">Dieses Auto</a>
-  <a href="class.html" class="btn">Dieser Typ</a>
-  <a href="maintenance.html" class="btn">Wartung</a>
-  <a href="more.html" class="btn">Mehr</a>
 </section>
