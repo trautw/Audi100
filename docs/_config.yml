@@ -1,6 +1,9 @@
 # Site settings
 theme: jekyll-theme-cayman
 title: Audi 100
+author:
+  name: Christoph Trautwein
+  url: https://github.com/trautw
 email: ch.trautwein@bmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hintergrund Infos zu meinem Audi 100 den ich als Student 
