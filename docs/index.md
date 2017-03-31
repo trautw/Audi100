@@ -6,9 +6,9 @@ overview: true
 # Audi 100
 
 | [Dieses Auto](object.html) 
-| [Dieser Typ](https://github.com/trautw/Audi100/class.html) 
-| [Wartung](https://github.com/trautw/Audi100/maintenance.html) 
-| [Mehr](https://github.com/trautw/Audi100/more.html) 
+| [Dieser Typ](class.html) 
+| [Wartung](maintenance.html) 
+| [Mehr](more.html) 
 
 ![Audi vor Windkraftwerk](https://github.com/trautw/Audi100/blob/master/pictures/20160410_153740.jpg?raw=true)
 
