@@ -1,6 +1,5 @@
 ---
 layout: default
-overview: true
 ---
 
 ### 13.06.2009 TÜV 
