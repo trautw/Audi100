@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Dieses Auto
+permalink: /object/
 ---
 
 ### 13.06.2009 TÜV 
