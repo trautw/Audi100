@@ -6,4 +6,4 @@ permalink: /maintenance/
 
 #### 31.03.2017
 - Stecker am Sensor unter dem Leerlaufstellet erneuert
-- Schläuche am Leerlaufsteller mit Silikonband abgedichtet
+- Schläuche am Leerlaufsteller mit Silikonband abgedichtet 
