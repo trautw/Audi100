@@ -3,7 +3,7 @@ layout: default
 overview: true
 ---
 
-![Audi vor Windkraftwerk](https://github.com/trautw/Audi100/blob/master/pictures/20160410_153740.jpg?raw=true)
+![Audi vor Windkraftwerk](pictures/20160410_153740.jpg)
 
 
 ## Technische Daten
