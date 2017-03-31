@@ -1,5 +1,5 @@
 ---
-layout: ctdefault
+layout: default
 overview: true
 ---
 
