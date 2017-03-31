@@ -5,7 +5,7 @@ overview: true
 
 # Audi 100
 
-| [Dieses Auto](https://github.com/trautw/Audi100/object.html) 
+| [Dieses Auto](object.html) 
 | [Dieser Typ](https://github.com/trautw/Audi100/class.html) 
 | [Wartung](https://github.com/trautw/Audi100/maintenance.html) 
 | [Mehr](https://github.com/trautw/Audi100/more.html) 
