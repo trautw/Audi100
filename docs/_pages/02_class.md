@@ -10,3 +10,5 @@ permalink: /class/
 * Leistung: 136 PS (100 kW)
 * Hubraum: 2.282 cm³
 * Treibstoff: Benzin
+
+[Historie bei Audi](http://www.audi.com/corporate/de/unternehmen/historie/modelle/audi-100-1982-01.html)
