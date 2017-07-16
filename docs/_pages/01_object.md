@@ -4,6 +4,8 @@ title: Dieses Auto
 permalink: /object/
 ---
 
+### 16.07.2017 Teilnahme am Oldtimertreffen Schenefeld 2017
+
 ### 11.04.2017 H-Kennzeichen geholt
 
 ### 09.04.2017 Fenster Kurbel hinten links mit WD40 wieder gängig gemacht
