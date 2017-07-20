@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dieser Typ
-permalink: /class/
+permalink: /classdisabled/
 ---
 
 * Audi 100 STH (1986 – 1990)
