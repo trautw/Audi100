@@ -4,7 +4,9 @@ title: Dieses Auto
 permalink: /object/
 ---
 
-### 16.07.2017 Teilnahme am Oldtimertreffen Schenefeld 2017
+### 27.08.2017 Teilnahme am [2. Old- und Youngtimer Audi Treffen](https://www.facebook.com/events/1827324394263693/)
+
+### 16.07.2017 Teilnahme am [Oldtimertreffen Schenefeld 2017](http://www.vau-max.de/termine/schenefeld/oldtimertreffen-schenefeld.1409.html)
 
 ### 11.04.2017 H-Kennzeichen geholt
 
