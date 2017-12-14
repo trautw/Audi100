@@ -4,6 +4,9 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+#### 12.12.2017
+- Radlager hinten nachgezogen, Splinte erneuert
+
 #### 24.06.2017
 - Kühlflüssigkeit nachgefüllt
 - Abdeckung des Wasserkasten geflickt
