@@ -3,6 +3,8 @@ layout: default
 title: Wartung
 permalink: /maintenance/
 ---
+#### 06.01.2018
+- Wackelrontakt hinter Radio repariert
 
 #### 12.12.2017
 - Radlager hinten nachgezogen, Splinte erneuert
