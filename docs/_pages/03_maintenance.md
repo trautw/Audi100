@@ -3,6 +3,11 @@ layout: default
 title: Wartung
 permalink: /maintenance/
 ---
+
+
+#### 04.06.2018
+- Stoßdämpfer vorne rechts ersetzt: KRA 4000230
+
 #### 06.01.2018
 - Wackelrontakt hinter Radio repariert
 
