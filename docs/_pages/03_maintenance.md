@@ -5,11 +5,17 @@ permalink: /maintenance/
 ---
 
 
+#### 02.08.2018
+- ISKU EUR 238, Radlager VR, Stabi Querlenkerlager
+
 #### 04.06.2018
 - Stoßdämpfer vorne rechts ersetzt: KRA 4000230
 
+#### 
+- Hydraulikpumpe ersetzt
+
 #### 06.01.2018
-- Wackelrontakt hinter Radio repariert
+- Wackelkontakt hinter Radio repariert
 
 #### 12.12.2017
 - Radlager hinten nachgezogen, Splinte erneuert
