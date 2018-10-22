@@ -4,7 +4,7 @@ title: Wartung
 permalink: /maintenance/
 ---
 
-### 09.2018 Fensterkurbel vorne links ersetzt
+#### 09.2018 Fensterkurbel vorne links ersetzt
 
 #### 02.08.2018
 - ISKU EUR 238, Radlager VR, Stabi Querlenkerlager
