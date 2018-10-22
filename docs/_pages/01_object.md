@@ -4,6 +4,16 @@ title: Dieses Auto
 permalink: /object/
 ---
 
+### 21.10.2018 Teilnahme an Motor Klassik Hamburg
+
+### 09.2018 Fensterkurbel vorne links ersetzt
+
+### 2018 Stoßdämpfer vorne rechts getauscht
+
+### 2018 Teilname an Deichparade
+
+### 2018 Hydraulikpumpe gewechselt
+
 ### 27.08.2017 Teilnahme am [2. Old- und Youngtimer Audi Treffen](https://www.facebook.com/events/1827324394263693/), [Bilder](https://www.facebook.com/pg/OldtimerRallyeHamburg/photos/?tab=album&album_id=1420260001362015)
 
 ### 16.07.2017 Teilnahme am [Oldtimertreffen Schenefeld 2017](http://www.vau-max.de/termine/schenefeld/oldtimertreffen-schenefeld.1409.html)
