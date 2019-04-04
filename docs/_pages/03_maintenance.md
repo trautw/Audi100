@@ -4,6 +4,12 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+#### 03.2019 Sicherung für Instrumente ersetzt
+
+#### 03.2019 Hupe nach Kurzschluss ersetzt
+
+#### 03.2019 Motorlager ersetzt
+
 #### 09.2018 Fensterkurbel vorne links ersetzt
 
 #### 02.08.2018
