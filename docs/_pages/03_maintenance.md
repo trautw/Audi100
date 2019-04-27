@@ -10,9 +10,11 @@ permalink: /maintenance/
 
 #### 24.04.2019 Türkontakte ersetzt
 
+#### 24.04.2019 Kabel bei Kühlerlüfter geflickt
+
 #### 20.04.2019 TÜV 
 
-#### 24.04.2019 Kabel bei Kühlerlüfter geflickt
+#### 03.2019 Getriebelager ersetzt
 
 #### 03.2019 Sicherung für Instrumente ersetzt
 
