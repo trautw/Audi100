@@ -4,6 +4,16 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+#### 27.04.2019 Ölwechsel mac OIL 10W-40 Helix HX6, Ölfilter W 719/5 EUR34,90, km-Stand 358355
+
+#### 24.04.2019 Bremssättel vorne ersetzt, Girling/Fuchs 54
+
+#### 24.04.2019 Türkontakte ersetzt
+
+#### 20.04.2019 TÜV 
+
+#### 24.04.2019 Kabel bei Kühlerlüfter geflickt
+
 #### 03.2019 Sicherung für Instrumente ersetzt
 
 #### 03.2019 Hupe nach Kurzschluss ersetzt
