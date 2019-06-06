@@ -4,6 +4,14 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+#### 18.05.2019 TÜV Nachprüfung
+
+#### 18.05.2019 Lambdasonde ersetzt EUR90,31 + MwSt
+
+#### 17.05.2019 Katalysator ersetzt EUR430,00
+
+#### 05.2019 Thermostat ersetzt
+
 #### 27.04.2019 Ölwechsel mac OIL 10W-40 Helix HX6, Ölfilter W 719/5 EUR34,90, km-Stand 358355
 
 #### 24.04.2019 Bremssättel vorne ersetzt, Girling/Fuchs 54
