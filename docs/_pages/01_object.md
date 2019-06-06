@@ -4,6 +4,10 @@ title: Dieses Auto
 permalink: /object/
 ---
 
+### 30.05.2018 Teilnahme an Audi Treffen Fehrenbötel, 24635 Rickling
+
+### 04./05.05.2019 Teilnahme an 2-Tage Frühjahrsausfahrt DAVC Hanse nach Celle
+
 ### 21.10.2018 Teilnahme an Motor Klassik Hamburg
 
 ### 2018 Teilname an Deichparade
