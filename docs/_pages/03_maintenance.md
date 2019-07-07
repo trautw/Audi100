@@ -4,6 +4,12 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+#### 07.07.2019 Innenraumlüfter ersetzt
+
+#### 07.07.2019 Schraube Traggelenk vorne rechts ersetzt
+
+#### 06.2019 Türgriffe vorne ersetzt
+
 #### 18.05.2019 TÜV Nachprüfung
 
 #### 18.05.2019 Lambdasonde ersetzt EUR90,31 + MwSt
