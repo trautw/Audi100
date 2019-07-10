@@ -4,9 +4,15 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+#### 10.07.2019 Auspuff Endtopf ersetzt
+
 #### 07.07.2019 Innenraumlüfter ersetzt
 
 #### 07.07.2019 Schraube Traggelenk vorne rechts ersetzt
+
+#### 06.2019 Stoßdämpfer hinten ersetzt
+
+#### 06.2019 Radlager hinten ersetzt
 
 #### 06.2019 Türgriffe vorne ersetzt
 
