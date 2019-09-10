@@ -4,6 +4,8 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+#### 07.09.2019 Stoßdämpfer rechts Mutter nachgezogen
+
 #### 10.07.2019 Auspuff Endtopf ersetzt
 
 #### 07.07.2019 Innenraumlüfter ersetzt
