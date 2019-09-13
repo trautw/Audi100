@@ -13,3 +13,6 @@ permalink: /more/
 ### Shops
 * [autewo](https://shop.autewo.de/)
 * [online-teile](https://www.online-teile.com/audi-ersatzteile/)
+
+### Wartung
+* [KE-Jetronic](https://www.audi-80-scene.de/wiki/index.php/St%C3%B6rungstabelle_K/Ke-Jetronic)
