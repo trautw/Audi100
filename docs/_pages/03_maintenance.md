@@ -4,6 +4,14 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+#### 19.02.2023 Kartentasche Fahrertür geklebt
+
+#### 19.02.2023 Instrumentenbeleuchtung untersucht 
+
+#### 19.02.2023 Motorhaube gerichtet
+
+#### 18.02.2023 Benzinpumpe getauscht
+
 #### 05.02.2023 Bilstein Stoßdämpfer hinten
 
 #### 07.09.2019 Stoßdämpfer rechts Mutter nachgezogen
