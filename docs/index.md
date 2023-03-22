@@ -14,7 +14,7 @@ overview: true
 * Erstzulassung: 26.03.1987
 * Typ: 443 C114 (?)
 * Motor: NF
-* LackNr. LY4Z/LY4Z
+* LackNr: LY4Z/LY4Z
 * Ausstattung: R05 400 568 621 659
 
 ## Geschichte
