@@ -1,9 +1,12 @@
-<section class="page-header">
-  <h1 class="project-name">{{ site.title }}</h1>
-  <h2 class="project-tagline">{{ site.tagline }}</h2>
+<div id="header">
+  <nav>
+    <ul>
+      <li class="fork"><a href="{{ site.baseurl }}/">Homes</a></li>
+      {% for page in site.pages %} {% if page.title and page.title != "Impressum" and page.title != "Datenschutzerklärung" %}
+        <li class="fork"><a href="{{ page.url | prepend: site.baseurl }}" class="btn">{{ page.title }}</a></li>
+      {% endif %} {% endfor %}
+    </ul>
+  </nav>
+</div>
+  
 
-  <a href="{{ site.baseurl }}" class="btn">Home</a>
-  {% for page in site.pages %} {% if page.title %}
-  <a href="{{ page.url | prepend: site.baseurl }}" class="btn">{{ page.title }}</a>
-  {% endif %} {% endfor %}
-</section>
