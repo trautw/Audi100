@@ -4,7 +4,7 @@ title: Wartung
 permalink: /maintenance/
 ---
 
-### 01.08.2023 Hinten Bremsscheiben, Bremsbeläge, Bremssattelträger, Kühler, Lichtmaschine/Generator
+#### 01.08.2023 Hinten Bremsscheiben, Bremsbeläge, Bremssattelträger, Kühler, Lichtmaschine/Generator
 
 #### 21.07.2023 TÜV GTÜ 378387km ohne Mängel
 
