@@ -4,6 +4,10 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+#### 10.03.2025 Achsmanschette vorne rechts befestigt
+
+#### 03.03.2025 Vier neue Sommerreifen 185/70/HR14 reifen-hagemann EUR 480,00
+
 #### 20.01.2025 Zündkerzen, Zündkabel, Verteilerkappe, Verteilerfinger
 
 #### 01.08.2023 Hinten Bremsscheiben, Bremsbeläge, Bremssattelträger, Kühler, Lichtmaschine/Generator
