@@ -10,6 +10,8 @@ permalink: /maintenance/
 
 #### 20.01.2025 Zündkerzen, Zündkabel, Verteilerkappe, Verteilerfinger
 
+#### 24.11.2024 Sitzgleiter EUR 17,80
+
 #### 01.08.2023 Hinten Bremsscheiben, Bremsbeläge, Bremssattelträger, Kühler, Lichtmaschine/Generator
 
 #### 21.07.2023 TÜV GTÜ 378387km ohne Mängel
